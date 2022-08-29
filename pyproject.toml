@@ -8,6 +8,7 @@ authors = ["Shadowrunner11 <matematicadivina1@gmail.com>"]
 python = "^3.8"
 numpy = "^1.23.2"
 ipykernel = "^6.15.1"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 
